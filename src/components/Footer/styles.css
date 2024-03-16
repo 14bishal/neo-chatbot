@@ -1,0 +1,21 @@
+.footer-section {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+textarea {
+  width: 60%;
+  overflow: hidden;
+  border-radius: 8px;
+  padding: 4px 10px;
+  resize: none;
+}
+
+img {
+  margin: 0 6px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
